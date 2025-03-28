@@ -1,0 +1,118 @@
+#states{
+    border: 2px solid black;
+    text-align: right;
+    padding-right: 10px;
+    font-size: 30px;
+    width: 400px;
+    color: white;
+    background-color: black;
+    margin: 0;
+}
+#seven{
+    width: 100px;
+    height: 40px;
+    font-size: 25px;
+    border-radius: 10px;
+}
+#eight{
+    width: 100px;
+    height: 40px;
+    font-size: 25px;
+    border-radius: 10px;
+}
+#nine{
+    width: 100px;
+    height: 40px;
+    font-size: 25px;
+    border-radius: 10px;
+}
+#plus{
+    width: 100px;
+    height: 40px;
+    font-size: 25px;
+    border-radius: 10px;
+}
+#four{
+    width: 100px;
+    height: 40px;
+    font-size: 25px;
+    border-radius: 10px;
+}
+#five{
+    width: 100px;
+    height: 40px;
+    font-size: 25px;
+    border-radius: 10px;
+}
+#six{
+    width: 100px;
+    height: 40px;
+    font-size: 25px;
+    border-radius: 10px;
+}
+#minus{
+    width: 100px;
+    height: 40px;
+    font-size: 25px;
+    border-radius: 10px;
+}
+#one{
+    width: 100px;
+    height: 40px;
+    font-size: 25px;
+    border-radius: 10px;
+}
+#two{
+    width: 100px;
+    height: 40px;
+    font-size: 25px;
+    border-radius: 10px;
+}
+#three{
+    width: 100px;
+    height: 40px;
+    font-size: 25px;
+    border-radius: 10px;
+}
+#multiply{
+    width: 100px;
+    height: 40px;
+    font-size: 25px;
+    border-radius: 10px;
+}
+#zero{
+    width: 100px;
+    height: 40px;
+    font-size: 25px;
+    border-radius: 10px;
+}
+#dobleZero{
+    width: 100px;
+    height: 40px;
+    font-size: 25px;
+    border-radius: 10px;
+}
+#dotto{
+    width: 100px;
+    height: 40px;
+    font-size: 25px;
+    border-radius: 10px;
+}
+#surasshu{
+    width: 100px;
+    height: 40px;
+    font-size: 25px;
+    border-radius: 10px;
+}
+#delete{
+    width: 200px;
+    height: 40px;
+    font-size: 25px;
+    border-radius: 10px;
+}
+#result{
+    width: 200px;
+    height: 40px;
+    font-size: 25px;
+    border-radius: 10px;
+}
